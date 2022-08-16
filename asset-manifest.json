@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//wavyheewon.github.io/nwitter/static/css/main.a749d3de.css",
+    "main.js": "/https//wavyheewon.github.io/nwitter/static/js/main.95c5bf57.js",
+    "index.html": "/https//wavyheewon.github.io/nwitter/index.html",
+    "main.a749d3de.css.map": "/https//wavyheewon.github.io/nwitter/static/css/main.a749d3de.css.map",
+    "main.95c5bf57.js.map": "/https//wavyheewon.github.io/nwitter/static/js/main.95c5bf57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a749d3de.css",
+    "static/js/main.95c5bf57.js"
+  ]
+}
